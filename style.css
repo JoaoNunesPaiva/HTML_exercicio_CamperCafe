@@ -58,3 +58,15 @@ p{
 address{
     font-size: 12px;
 }
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: brown;
+}
